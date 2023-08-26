@@ -4,7 +4,7 @@
 * Design - for material characterization at permittivity and permeability sensing area
 * suggestion material under test(MUT) for sensing area : Teflon, FR4, magnetic material
 
-* This is an example of how to design the sensor using CST Microwave Studio
+* This is an example of how to design the sensor using brick 
 * ![image](https://github.com/fatenikhsan/microwave-sensor/assets/142777956/bf5fa902-30e9-454e-9f4b-330e9c2fead9)
 
 * Figure - h field sensing area(which the area including red color)
