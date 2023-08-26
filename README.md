@@ -1,4 +1,4 @@
-# microwave-sensor
+# microwave sensor
 ## complementary split ring resonator
 * This sensor was simulated using CST Microwave Studio
 * Design - for material characterization at permittivity and permeability sensing area
